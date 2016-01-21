@@ -22,8 +22,6 @@ $(function() {
     else {
       $("#false").show();
     }
-
     event.preventDefault();
   });
-
 });
